@@ -1,0 +1,18 @@
+.cover{
+    background-image: linear-gradient(to top right, red, white);
+    width: 2000px;
+    height: 900px;
+
+}
+.satu{
+    background-image: linear-gradient(to bottom ,blue 75%, white);
+    width: 500px;
+    height: 400px;
+    margin: 0 500px;
+}
+.dua{
+    background-image: linear-gradient(to right , white,blue,white);
+    width: 500px;
+    height: 200px;
+    margin: 0px 500px;
+}
